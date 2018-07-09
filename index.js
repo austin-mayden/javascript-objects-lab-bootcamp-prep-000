@@ -1,1 +1,1 @@
-var objexts = {recipe: 'a'}
+var recipes = {};
